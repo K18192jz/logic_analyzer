@@ -1,0 +1,7 @@
+
+State Machine - |logic_analyzer|UART_MODULE:uart|state_tx
+Name state_tx.done_tx state_tx.send_data_tx state_tx.load_charecter_TX state_tx.wait_tx 
+state_tx.wait_tx 0 0 0 0 
+state_tx.load_charecter_TX 0 0 1 1 
+state_tx.send_data_tx 0 1 0 1 
+state_tx.done_tx 1 0 0 1 

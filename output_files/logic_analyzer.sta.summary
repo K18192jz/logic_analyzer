@@ -1,0 +1,125 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.105
+TNS   : -51.981
+
+Type  : Slow 1200mV 85C Model Setup 'UART_MODULE:uart|CLK_baude_rate'
+Slack : -0.919
+TNS   : -12.287
+
+Type  : Slow 1200mV 85C Model Setup 'UART_MODULE:uart|RECIVED_RX'
+Slack : -0.485
+TNS   : -2.946
+
+Type  : Slow 1200mV 85C Model Hold 'clk_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'UART_MODULE:uart|CLK_baude_rate'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'UART_MODULE:uart|RECIVED_RX'
+Slack : 0.714
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'UART_MODULE:uart|CLK_baude_rate'
+Slack : -1.487
+TNS   : -28.253
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'UART_MODULE:uart|RECIVED_RX'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.032
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_50'
+Slack : 9.934
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.657
+TNS   : -42.421
+
+Type  : Slow 1200mV 0C Model Setup 'UART_MODULE:uart|CLK_baude_rate'
+Slack : -0.765
+TNS   : -9.868
+
+Type  : Slow 1200mV 0C Model Setup 'UART_MODULE:uart|RECIVED_RX'
+Slack : -0.388
+TNS   : -2.297
+
+Type  : Slow 1200mV 0C Model Hold 'clk_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.369
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'UART_MODULE:uart|CLK_baude_rate'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'UART_MODULE:uart|RECIVED_RX'
+Slack : 0.635
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'UART_MODULE:uart|CLK_baude_rate'
+Slack : -1.487
+TNS   : -28.253
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'UART_MODULE:uart|RECIVED_RX'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.001
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_50'
+Slack : 9.943
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.951
+TNS   : -23.559
+
+Type  : Fast 1200mV 0C Model Setup 'UART_MODULE:uart|CLK_baude_rate'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'UART_MODULE:uart|RECIVED_RX'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'UART_MODULE:uart|CLK_baude_rate'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'UART_MODULE:uart|RECIVED_RX'
+Slack : 0.253
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'UART_MODULE:uart|CLK_baude_rate'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'UART_MODULE:uart|RECIVED_RX'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.102
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_50'
+Slack : 9.594
+TNS   : 0.000
+
+------------------------------------------------------------
